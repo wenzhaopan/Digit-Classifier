@@ -1,5 +1,5 @@
 # Overview
-This is a neural network with backpropagation implemented, designed to classify handwritten digits from the MNIST dataset. The network consists of 3 hidden layers and achieves approximately 97% accuracy.
+This is a neural network with backpropagation, designed to classify handwritten digits from the MNIST dataset. The network consists of 3 hidden layers and achieves approximately 97% accuracy.
 
 # Getting Started
 
