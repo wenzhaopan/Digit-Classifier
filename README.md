@@ -13,4 +13,4 @@ This is a neural network with backpropagation implemented, designed to classify 
     train(epoch)
     test()
 3. **Execution Environment:**
-   This implementation was tested and run using Jupyter Notebook. Ensure Jupyter Notebook is installed and set up on your system
+   This implementation was tested and ran using Jupyter Notebook. Make sure Jupyter Notebook is installed and set up on your system
